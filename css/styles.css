@@ -88,6 +88,11 @@ a{
 }
 
 @media (max-width: 1028px){
+
+  #title .container-fluid{
+    text-align:center;
+  }
+
   .title-image{
     transform: rotate(0);
     position: static;
